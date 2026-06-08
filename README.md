@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **MYGITACCOUNT-10/MYGITACCOUNT-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <div align="center">
   <!-- Dynamic Typing Header -->
   <a href="https://github.com/MYGITACCOUNT-10">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+[Your+Name]+%F0%9F%91%8B;Digital+Craftsman+%26+Developer;Always+learning+and+building!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Hitesh+%F0%9F%91%8B;Digital+Craftsman+%26+Developer;Always+learning+and+building!" alt="Typing SVG" />
   </a>
 </div>
 

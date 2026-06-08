@@ -39,13 +39,14 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 About Me
 
-I am a Full Stack Developer dedicated to writing clean, maintainable code and building impactful applications. I believe in continuous learning and actively contribute to the tech community.
+I am a Full-Stack Developer and Machine Learning Enthusiast passionate about building scalable, intelligent, and user-centric applications. With experience spanning web development, artificial intelligence, and healthcare technology, I focus on creating impactful solutions while adhering to clean code principles and modern software engineering practices.
 
-- 🏢 Currently working as a **[Your Role]** at **[Your Company/Freelance]**
-- 🔭 Currently focused on building **[Current Project/Technology]**
-- 🌱 Constantly exploring new trends in **[E.g., Cloud Architecture, AI, or Web3]**
-- 💬 Ask me about **[Your strong skills, e.g., React, Python, System Design]**
-- ⚡ Fun fact: **[Add a fun fact about yourself!]**
+* 💼 Currently developing AI-powered applications, including healthcare management systems and intelligent document-processing platforms.
+* 🚀 Actively working on Full-Stack AI solutions using React, Django, PostgreSQL, Large Language Models (LLMs), and cloud-ready architectures.
+* 🌱 Continuously expanding my expertise in Artificial Intelligence, Machine Learning, Generative AI, System Design, and scalable backend development.
+* 💬 Ask me about React, Django, Python, Machine Learning, Deep Learning, REST APIs, Database Design, and Full-Stack Development.
+* 🏆 Built projects in healthcare AI, deepfake detection, sentiment analysis, research automation, and clinical intelligence systems.
+* ⚡ Fun fact: I enjoy transforming research ideas into production-ready applications and exploring how AI can solve real-world problems.
 
 ---
 
@@ -54,7 +55,7 @@ I am a Full Stack Developer dedicated to writing clean, maintainable code and bu
 <div align="center">
   <!-- Skill Icons - Check https://skillicons.dev to find more icons for your stack -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,django,postgres,mongodb,docker,git,linux&perline=15" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,django,postgres,mongodb,docker,git,linux&perline=15" alt="My Skills" />
   </a>
 </div>
 

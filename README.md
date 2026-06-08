@@ -75,21 +75,11 @@ I am a Full-Stack Developer and Machine Learning Enthusiast passionate about bui
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=MYGITACCOUNT-10&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3" alt="GitHub Stats" width="100%" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MYGITACCOUNT-10&theme=transparent&hide_border=true&title_color=2196F3" alt="GitHub Streak" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MYGITACCOUNT-10&layout=compact&theme=transparent&hide_border=true&title_color=2196F3" alt="Top Languages" width="80%" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=MYGITACCOUNT-10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="192" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MYGITACCOUNT-10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="192" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MYGITACCOUNT-10&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
 ---

@@ -65,8 +65,10 @@ I am a Full-Stack Developer and Machine Learning Enthusiast passionate about bui
 
 | Project Name | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **[Project 1 Name]** | A brief, 1-2 sentence description of what the project does and the problem it solves. | `React` `Node.js` `MongoDB` | [Source Code](https://github.com/) \| [Live Demo](#) |
-| **[Project 2 Name]** | A brief, 1-2 sentence description of what the project does and the problem it solves. | `Python` `Django` `PostgreSQL` | [Source Code](https://github.com/) \| [Live Demo](#) |
+| **AI Health Management System** | An intelligent healthcare and clinical intelligence platform for managing patient data and predictive analytics. | `React` `Django` `PostgreSQL` `LLMs` | [Source](#) \| [Demo](#) |
+| **Deepfake Detection Engine** | A deep learning model designed to analyze and detect manipulated video media with high accuracy. | `Python` `TensorFlow` `OpenCV` | [Source](#) \| [Demo](#) |
+| **Sentiment Analysis Tool** | An NLP-based sentiment analysis application extracting insights from text and social feeds. | `Python` `PyTorch` `Transformers` | [Source](#) \| [Demo](#) |
+| **Research Automation Pipeline** | A robust automated system for data collection, processing, and generating research insights. | `Python` `Docker` `FastAPI` | [Source](#) \| [Demo](#) |
 
 ---
 

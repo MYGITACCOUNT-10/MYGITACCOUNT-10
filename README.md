@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <br/>
 
 > **"Transforming complex problems into elegant, efficient, and scalable solutions."**  
-> *Passionate Software Developer | Open-Source Enthusiast | Tech Writer*
+> *Full-Stack Developer | AI & Machine Learning Enthusiast | Building Scalable Solutions*
 
 ---
 

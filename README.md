@@ -61,12 +61,12 @@ I am a Full-Stack Developer and Machine Learning Enthusiast passionate about bui
 
 ### 🚀 Featured Projects
 
-| Project Name | Description | Tech Stack | Links |
+| Project Name | Description | Tech Stack |
 | :--- | :--- | :--- | :--- |
-| **AI Health Management System** | An intelligent healthcare and clinical intelligence platform for managing patient data and predictive analytics. | `React` `Django` `PostgreSQL` `LLMs` | [Source](#) \| [Demo](#) |
-| **Deepfake Detection Engine** | A deep learning model designed to analyze and detect manipulated video media with high accuracy. | `Python` `TensorFlow` `OpenCV` | [Source](#) \| [Demo](#) |
-| **Sentiment Analysis Tool** | An NLP-based sentiment analysis application extracting insights from text and social feeds. | `Python` `PyTorch` `Transformers` | [Source](#) \| [Demo](#) |
-| **Research Automation Pipeline** | A robust automated system for data collection, processing, and generating research insights. | `Python` `Docker` `FastAPI` | [Source](#) \| [Demo](#) |
+| **AI Health Management System** | An intelligent healthcare and clinical intelligence platform for managing patient data and predictive analytics. | `React` `Django` `PostgreSQL` `LLMs` |
+| **Deepfake Detection Engine** | A deep learning model designed to analyze and detect manipulated video media with high accuracy. | `Python` `TensorFlow` `OpenCV` |
+| **Sentiment Analysis Tool** | An NLP-based sentiment analysis application extracting insights from text and social feeds. | `Python` `PyTorch` `Transformers` |
+| **Research Automation Pipeline** | A robust automated system for data collection, processing, and generating research insights. | `Python` `Docker` `FastAPI` |
 
 ---
 
